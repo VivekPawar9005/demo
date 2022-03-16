@@ -10,4 +10,5 @@ updates:
     schedule:
       interval: "daily"
     target-branch: "develop"
-    open-pull-requests-limit: 15
+    open-pull-requests-limit: 10
+    versioning-strategy: widen
