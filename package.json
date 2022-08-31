@@ -50,7 +50,7 @@
     "lodash": "^4.17.21",
     "mariadb": "^2.5.4",
     "merge": "^2.1.1",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.35",
     "mongodb": "^2.2.36",
     "morgan": "^1.9.1",
     "mssql": "^7.2.1",
