@@ -69,7 +69,7 @@
     "passport-http": "^0.3.0",
     "passport-http-bearer": "^1.0.1",
     "passport-oauth2-client-password": "^0.1.2",
-    "passport-saml": "^3.2.0",
+    "passport-saml": "^3.2.2",
     "pdfmake": "^0.2.2",
     "pem": "^1.14.4",
     "pg": "^8.7.1",
